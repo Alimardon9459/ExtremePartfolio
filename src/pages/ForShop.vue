@@ -202,7 +202,7 @@ export default {
     transition: 0.4s;
   }
   .text-nazad:hover{
-    margin-left:50px
+    padding-left:50px
   }
 
 </style>

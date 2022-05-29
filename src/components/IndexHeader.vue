@@ -7,7 +7,7 @@
           <div class="text-center textheader bg-black text-yellow q-ml-sm" >Ride Hard</div>
         </div>
         <div class="row justify-center btn-content q-mt-xl">
-          <q-btn class="btn-header bg-yellow" label="FIND OUT HOW"/>
+          <q-btn class="btn-header bg-yellow" padding="10px 35px" label="FIND OUT HOW"/>
         </div>
       </q-img>
 
@@ -44,7 +44,6 @@ export default {
     top: 350px;
   }
   .btn-header{
-    padding: 10px 35px;
     border-radius:0;
     transition: 1s;
   }
